@@ -1,7 +1,7 @@
  التقرير التقني للمهمة التدريبية
 
 العنوان: من الصفر إلى الحاويات – تثبيت Ubuntu وتعلّم Docker وربطه بـ GitHub
-الاسم: ملاك محمد الياريمي
+الاسم: ملاك محمد اليريمي
 التاريخ: [2025/7/29]
 1. المقدمة
 
@@ -66,13 +66,7 @@
 
     docker_commands.txt: يحتوي على الأوامر المنفذة أثناء العمل
 
-4. الروابط
-
-    رابط المستودع على GitHub:
-    https://github.com/malakmohammedalyaremi/docker
-
-    رابط الصورة على GitHub Container Registry:
-    https://github.com/users/malakmohammedalyaremi/packages
+ 
 
 5. التحديات التي تم تجاوزها
 
